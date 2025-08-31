@@ -2,7 +2,7 @@
   {% for item in site.data.navigation.main %}
     {% assign href = item.url %}
     {% if href contains '://' %}
-      <a href="{{ href }}">{{ item.title }}</a>
+      <a href="{{ href }}" target="_self" rel="noopener">{{ item.title }}</a>
     {% else %}
       <a href="{{ href | relative_url }}">{{ item.title }}</a>
     {% endif %}
