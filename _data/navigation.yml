@@ -1,10 +1,7 @@
 # main links 
 main:
-  - title: "About Me"
+  - title: "Homepage"
     url: "/#about-me"
- 
-  - title: "Projects"
-    url: "/#projects"
 
   - title: "Gallery"
     url: "/#gallery" 
