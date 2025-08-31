@@ -1,3 +1,11 @@
 <header class="site-header">
   {% include nav.html %}
 </header>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('nav.site-nav a').forEach(function(a){
+      a.setAttribute('target', '_self');
+    });
+  });
+</script>
