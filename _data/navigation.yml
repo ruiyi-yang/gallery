@@ -1,6 +1,6 @@
 # main links
-main:
-  - title: "Homepage"
-    url: https://ruiyi-yang.github.io/gallery/
+main: 
+  - title: "About Me"
+    url: https://ruiyi-yang.github.io/
   - title: "Gallery"
-    url:  "#gallery"
+    url:  "https://ruiyi-yang.github.io/gallery/#gallery"
