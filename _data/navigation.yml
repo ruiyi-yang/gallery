@@ -3,4 +3,4 @@ main:
   - title: "About Me"
     url: https://ruiyi-yang.github.io/
   - title: "Gallery"
-    url:  "https://ruiyi-yang.github.io/gallery/#gallery"
+    url:  https://ruiyi-yang.github.io/gallery/#gallery 
